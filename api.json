@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 1250,
+      "id": 1,
+      "title": "Alamos malbec",
+      "thumbnailUrl": "http://cdn.shopify.com/s/files/1/0557/2093/5599/products/VINO-ALAMOS-MALBEC-750ML_f6d45f_35702.jpg?v=1626962262"
+    },
+    {
+      "precio": 490,
+      "id": 2,
+      "title": "Alaris dulce cosecha",
+      "thumbnailUrl": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3061411_f.jpg" 
+    },
+    {
+      "precio": 490,
+      "id": 3,
+      "title": "Alaris malbec",
+      "thumbnailUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+      "precio": 650,
+      "id": 4,
+      "title": "Alama mora malbec",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+      "precio": 1680,
+      "id": 5,
+      "title": "Aperol 750ML",
+      "thumbnailUrl": "https://picsum.photos/id/40/600"
+    },
+    {
+      "precio": 900,
+      "id": 6,
+      "title": "Bacardi blanco 750ML",
+      "thumbnailUrl": "https://picsum.photos/id/50/600"
+    }
+  ]
